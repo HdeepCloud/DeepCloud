@@ -1,9 +1,6 @@
 [submodule "deep-data"]
 	path = deep-data
 	url = https://github.com/HdeepCloud/deep-data.git
-[submodule "deep-docker"]
-	path = deep-docker
-	url = https://github.com/HdeepCloud/deep-docker.git
 [submodule "deep-microservice"]
 	path = deep-microservice
 	url = https://github.com/HdeepCloud/deep-microservice.git
