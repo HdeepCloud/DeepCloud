@@ -1,0 +1,15 @@
+[submodule "deep-data"]
+	path = deep-data
+	url = https://github.com/HdeepCloud/deep-data.git
+[submodule "deep-docker"]
+	path = deep-docker
+	url = https://github.com/HdeepCloud/deep-docker.git
+[submodule "deep-microservice"]
+	path = deep-microservice
+	url = https://github.com/HdeepCloud/deep-microservice.git
+[submodule "deep-mqstore"]
+	path = deep-mqstore
+	url = https://github.com/HdeepCloud/deep-mqstore.git
+[submodule "deep-lang"]
+	path = deep-lang
+	url = https://github.com/HdeepCloud/deep-lang.git
